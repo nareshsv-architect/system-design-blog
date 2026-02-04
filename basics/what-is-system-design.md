@@ -14,7 +14,7 @@ Instead of writing code for a single feature, system design focuses on:
 In short:
 
 System design = deciding the structure of a software system before building it.
-
+--------------------------------------------------------------------------------------------------------
 **Why Do We Need System Design?**
 When an application is small, simple code is enough. But as users grow:
 
@@ -25,7 +25,7 @@ When an application is small, simple code is enough. But as users grow:
  - The system must not crash
 
  - The app must stay fast
-
+--------------------------------------------------------------------------------------------------------
 System design helps answer questions like:
 
  - What happens if 1 user becomes 1 million users?
@@ -35,7 +35,7 @@ System design helps answer questions like:
  - How do we prevent failures?
 
  - What Does System Design Include?
-
+--------------------------------------------------------------------------------------------------------
 At a beginner level, system design usually includes:
 
   i)  Frontend – what users see and interact with
@@ -72,17 +72,20 @@ Basic questions you would ask:
 
 Even this simple app needs system design thinking.
 
-**System Design Coding**
-----------------------------------------------
-| Coding              | System Design        |
-----------------------------------------------	      
-| Writing functions	  | Designing architecture|
-| Focus on logic	    | Focus on structure    |
-| Works at code level	| Works at high level   |
------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+**System Design vs Coding**
+**Coding**             
+- Writing functions
+- Focus on logic
+- Works at code level
+**System Design**
+- Designing architecture
+- Focus on structure
+- Works at high level
 
 Both are important. System design helps you decide what to code.
 
+--------------------------------------------------------------------------------------------------------
 **Where Is System Design Used?**
  - Large applications (e-commerce, social media, banking)
  - Backend development
@@ -96,3 +99,4 @@ As Beginners; Lets Learn System Design simple:
  - Study small case studies
 
 Think in diagrams, not code
+
